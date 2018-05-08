@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\bin\Debug\Prep For Calculator Project.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\bin\Debug\Prep For Calculator Project.exe
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\bin\Debug\Prep For Calculator Project.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep For Calculator Project.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep_For_Calculator_Project.Form1.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep_For_Calculator_Project.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep For Calculator Project.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep For Calculator Project.exe
+c:\users\andrew\documents\visual studio 2015\Projects\Prep For Calculator Project\Prep For Calculator Project\obj\Debug\Prep For Calculator Project.pdb
